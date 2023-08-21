@@ -1,5 +1,6 @@
 # Export_Without_Baking
 This is a Grasshopper Script to Export geometry to various colored layers in various file formats directly without baking geometry to Rhino.
+There is a discussion about this here: https://discourse.mcneel.com/t/c-script-to-export-to-colored-layers-from-grasshopper-without-baking/164356?u=james_richters
 
 What I am trying to accomplish with this script is an easy way to export various geometries in different colors and on different layers from Grasshopper without baking anything. It uses the Grasshopper trees to keep things organized
 just attach the geometry for each layer, give the layers names and colors and export!
